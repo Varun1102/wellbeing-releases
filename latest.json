@@ -1,5 +1,5 @@
 {
-  "version": "0.1.3",
+  "version": "0.1.4",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Fixes double reminders, reminders firing the moment you change an interval, a burst every morning, and the overlay opening on the wrong monitor."
+  "notes": "Active hours are now editable in Settings, and each reminder has a Preview button."
 }
