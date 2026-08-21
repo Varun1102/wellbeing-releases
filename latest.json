@@ -1,5 +1,5 @@
 {
-  "version": "0.1.7",
+  "version": "0.1.8",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Fixes the countdown ring drifting off its circle as it emptied."
+  "notes": "Fixes reminders covering only part of the screen on displays with Windows scaling above 100%."
 }
