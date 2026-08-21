@@ -1,5 +1,5 @@
 {
-  "version": "0.1.5",
+  "version": "0.1.6",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Escape dismisses a reminder, the tray icon responds to a double-click, and you can set how long each reminder stays on screen."
+  "notes": "Reminders have been redesigned, with a sweeping countdown ring and gentler motion. Water now shows as a card instead of taking over the whole screen."
 }
