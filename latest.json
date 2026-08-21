@@ -1,5 +1,5 @@
 {
-  "version": "0.1.4",
+  "version": "0.1.5",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Active hours are now editable in Settings, and each reminder has a Preview button."
+  "notes": "Escape dismisses a reminder, the tray icon responds to a double-click, and you can set how long each reminder stays on screen."
 }
