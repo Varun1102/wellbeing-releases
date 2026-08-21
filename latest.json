@@ -1,5 +1,5 @@
 {
-  "version": "0.1.6",
+  "version": "0.1.7",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Reminders have been redesigned, with a sweeping countdown ring and gentler motion. Water now shows as a card instead of taking over the whole screen."
+  "notes": "Fixes the countdown ring drifting off its circle as it emptied."
 }
