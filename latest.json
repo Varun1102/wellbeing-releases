@@ -1,5 +1,5 @@
 {
-  "version": "0.1.8",
+  "version": "1.0.0",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Fixes reminders covering only part of the screen on displays with Windows scaling above 100%."
+  "notes": "First release with a macOS build. Windows and macOS now share one version number."
 }
