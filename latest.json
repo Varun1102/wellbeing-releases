@@ -1,5 +1,5 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "First release with a macOS build. Windows and macOS now share one version number."
+  "notes": "Reminders now respect the system Reduce motion setting, and the macOS wording no longer talks about a system tray."
 }
