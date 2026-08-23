@@ -1,5 +1,5 @@
 {
-  "version": "1.0.4",
+  "version": "1.0.5",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Every window now carries the app's own icon instead of a generic Java one, and on Windows the tray menu is drawn to match the rest of the app and tells you which version you are running."
+  "notes": "Fixes the tray menu from 1.0.4, which opened only once per run and at the corner of the screen. It now opens every time, next to the icon you clicked."
 }
