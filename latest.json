@@ -1,5 +1,5 @@
 {
-  "version": "1.0.3",
+  "version": "1.0.4",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Reminders no longer stack or close on a keystroke you were already typing, a failed save now tells you instead of doing nothing, and macOS gets its real icon and the system font."
+  "notes": "Every window now carries the app's own icon instead of a generic Java one, and on Windows the tray menu is drawn to match the rest of the app and tells you which version you are running."
 }
