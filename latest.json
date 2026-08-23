@@ -1,5 +1,5 @@
 {
-  "version": "1.0.1",
+  "version": "1.0.3",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Reminders now respect the system Reduce motion setting, and the macOS wording no longer talks about a system tray."
+  "notes": "Reminders no longer stack or close on a keystroke you were already typing, a failed save now tells you instead of doing nothing, and macOS gets its real icon and the system font."
 }
