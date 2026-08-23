@@ -1,5 +1,5 @@
 {
-  "version": "1.0.6",
+  "version": "1.0.7",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Fixes the tray menu from 1.0.5, which would not close when you clicked away or pressed Escape. It now dismisses however you leave it."
+  "notes": "The tray menu is now a light card matching the settings window, and Quit turns red when you hover it."
 }
