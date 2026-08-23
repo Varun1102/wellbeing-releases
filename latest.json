@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
+  "version": "1.0.6",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Fixes the tray menu from 1.0.4, which opened only once per run and at the corner of the screen. It now opens every time, next to the icon you clicked."
+  "notes": "Fixes the tray menu from 1.0.5, which would not close when you clicked away or pressed Escape. It now dismisses however you leave it."
 }
