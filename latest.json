@@ -1,7 +1,7 @@
 {
-  "version": "1.0.9",
+  "version": "1.1.0",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Each reminder now keeps its own active hours, so water can stop at six while eye rest runs all day.",
-  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.0.9/Wellbeing-1.0.9.msi",
-  "msiSha256": "b829d07e69f7c6dc960205ab17a781db571cd655349132ed8e44c976615dfd82"
+  "notes": "You can now make your own reminders, and each one chooses whether to wait for you or skip itself while you are away.",
+  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.0/Wellbeing-1.1.0.msi",
+  "msiSha256": "7dbeadcc979d4aed55495d9058248272647143752fda624d603150d8eda1d2e6"
 }
