@@ -1,7 +1,7 @@
 {
-  "version": "1.1.0",
+  "version": "1.1.1",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "You can now make your own reminders, and each one chooses whether to wait for you or skip itself while you are away.",
-  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.0/Wellbeing-1.1.0.msi",
-  "msiSha256": "7dbeadcc979d4aed55495d9058248272647143752fda624d603150d8eda1d2e6"
+  "notes": "Updating now shows a progress ring while it downloads, Cancel actually cancels, and the update windows match the rest of the app.",
+  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.1/Wellbeing-1.1.1.msi",
+  "msiSha256": "2d23952dfb5fb6406271a69eacdad227f91b358cd6fe4b9729cadcf1331e4aa8"
 }
