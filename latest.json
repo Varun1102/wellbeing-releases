@@ -1,7 +1,7 @@
 {
-  "version": "1.0.8",
+  "version": "1.0.9",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "A new version now shows as a dot on the tray icon instead of a pop-up, and Windows can download, check and install it for you.",
-  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.0.8/Wellbeing-1.0.8.msi",
-  "msiSha256": "22374977de5d3dbb31eaecc3bed47f7abe80bd32caf519692a566731a08b12f5"
+  "notes": "Each reminder now keeps its own active hours, so water can stop at six while eye rest runs all day.",
+  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.0.9/Wellbeing-1.0.9.msi",
+  "msiSha256": "b829d07e69f7c6dc960205ab17a781db571cd655349132ed8e44c976615dfd82"
 }
