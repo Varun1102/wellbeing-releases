@@ -1,5 +1,7 @@
 {
-  "version": "1.0.7",
+  "version": "1.0.8",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "The tray menu is now a light card matching the settings window, and Quit turns red when you hover it."
+  "notes": "A new version now shows as a dot on the tray icon instead of a pop-up, and Windows can download, check and install it for you.",
+  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.0.8/Wellbeing-1.0.8.msi",
+  "msiSha256": "22374977de5d3dbb31eaecc3bed47f7abe80bd32caf519692a566731a08b12f5"
 }
