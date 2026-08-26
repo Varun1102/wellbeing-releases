@@ -1,7 +1,7 @@
 {
   "version": "1.1.2",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "build(ci): publish the Mac bundle under the name it has always had",
+  "notes": "Reminders now ask whether you actually did it, and Wellbeing keeps a record.",
   "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.2/Wellbeing-1.1.2.msi",
   "msiSha256": "cb97bcd9118d72491f648ef7f89f168ef91e9e0093755fa29dafd9d7029ea6a4"
 }
