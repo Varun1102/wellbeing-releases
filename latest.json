@@ -1,7 +1,7 @@
 {
-  "version": "1.1.3",
+  "version": "1.1.4",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Reminders now hold back while your screen is busy, and tell you afterwards what they held.",
-  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.3/Wellbeing-1.1.3.msi",
-  "msiSha256": "22426dc78ff2b2019ecef78216ed84f9c0d95eb159eafc1faabf8ba7c08c2349"
+  "notes": "Wellbeing now keeps a record of the reminders it skips while you are away.",
+  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.4/Wellbeing-1.1.4.msi",
+  "msiSha256": "ae1d6308e1b10b98828e02d73771fc424fa5c333a505f8645fe6b1918dd9e1a8"
 }
