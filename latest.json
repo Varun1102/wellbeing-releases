@@ -1,7 +1,7 @@
 {
-  "version": "1.1.4",
+  "version": "1.1.5",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Wellbeing now keeps a record of the reminders it skips while you are away.",
-  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.4/Wellbeing-1.1.4.msi",
-  "msiSha256": "ae1d6308e1b10b98828e02d73771fc424fa5c333a505f8645fe6b1918dd9e1a8"
+  "notes": "Wellbeing can now show you how your day has gone.",
+  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.5/Wellbeing-1.1.5.msi",
+  "msiSha256": "82e0378dba39ea55a68ca55c4d32357a172249c22017b78f0cae25fc0ea522fc"
 }
