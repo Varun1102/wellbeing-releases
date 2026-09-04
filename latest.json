@@ -1,7 +1,7 @@
 {
-  "version": "1.1.5",
+  "version": "1.1.6",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Wellbeing can now show you how your day has gone.",
-  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.5/Wellbeing-1.1.5.msi",
-  "msiSha256": "82e0378dba39ea55a68ca55c4d32357a172249c22017b78f0cae25fc0ea522fc"
+  "notes": "Three bugs that could quietly cost you a setting or a day's history are fixed, and a locked screen no longer counts as a busy one.",
+  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.6/Wellbeing-1.1.6.msi",
+  "msiSha256": "cb63b4e087fa020d92db1ac2f288521d98382e1853d1c3d712f4e119d67f73ae"
 }
