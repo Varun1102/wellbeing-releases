@@ -1,7 +1,7 @@
 {
-  "version": "1.1.6",
+  "version": "1.1.7",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "Three bugs that could quietly cost you a setting or a day's history are fixed, and a locked screen no longer counts as a busy one.",
-  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.6/Wellbeing-1.1.6.msi",
-  "msiSha256": "cb63b4e087fa020d92db1ac2f288521d98382e1853d1c3d712f4e119d67f73ae"
+  "notes": "The Today card now keeps up while you are looking at it, and walks the days you actually had.",
+  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.7/Wellbeing-1.1.7.msi",
+  "msiSha256": "651228193a13d418a93c5064e8baa739b8869ef398074ce3e244bffad8e0bad1"
 }
