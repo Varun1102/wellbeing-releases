@@ -1,7 +1,7 @@
 {
-  "version": "1.1.7",
+  "version": "1.1.8",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "The Today card now keeps up while you are looking at it, and walks the days you actually had.",
-  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.7/Wellbeing-1.1.7.msi",
-  "msiSha256": "651228193a13d418a93c5064e8baa739b8869ef398074ce3e244bffad8e0bad1"
+  "notes": "The list of reminders you missed now fits on your screen, however long it is.",
+  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.8/Wellbeing-1.1.8.msi",
+  "msiSha256": "5a2cb2fd2b6c1bb5fc28ffdc56025571f73851ab066fdbe43bbdb38e7cabb064"
 }
