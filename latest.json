@@ -1,7 +1,7 @@
 {
-  "version": "1.1.8",
+  "version": "1.1.9",
   "url": "https://github.com/Varun1102/wellbeing-releases/releases/latest",
-  "notes": "The list of reminders you missed now fits on your screen, however long it is.",
-  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.8/Wellbeing-1.1.8.msi",
-  "msiSha256": "5a2cb2fd2b6c1bb5fc28ffdc56025571f73851ab066fdbe43bbdb38e7cabb064"
+  "notes": "Locking your screen now counts as being away straight away, instead of three minutes later.",
+  "msiUrl": "https://github.com/Varun1102/wellbeing-releases/releases/download/v1.1.9/Wellbeing-1.1.9.msi",
+  "msiSha256": "d7ae173ac709c99b808fc1361b4bac1e4558afcab9c4c8139e5defa6c442cca8"
 }
